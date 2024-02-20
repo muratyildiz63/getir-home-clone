@@ -1,0 +1,76 @@
+[{
+        "id": 1,
+        "name": "Getir'i keşfet",
+        "children": [{
+                "id": 1,
+                "name": "Hakkımızda"
+            }, {
+                "id": 2,
+                "name": "Kariyer"
+            }, {
+                "id": 3,
+                "name": "Teknoloji Kariyerleri"
+            }, {
+                "id": 4,
+                "name": "İletişim"
+            }, {
+                "id": 5,
+                "name": "Sosyal Sorumluluk Projeleri"
+            }, {
+                "id": 6,
+                "name": "Basın Bültenleri"
+            }
+
+        ]
+
+    },
+    {
+        "id": 2,
+        "name": "Yardıma mı ihtiyacın var?",
+        "children": [{
+                "id": 1,
+                "name": "Sıkça Sorulan Sorular"
+            }, {
+                "id": 2,
+                "name": "Kişisel Verilerin Korunması"
+            }, {
+                "id": 3,
+                "name": "Gizlilik Politikası"
+            }, {
+                "id": 4,
+                "name": "Kullanım Koşulları"
+            }, {
+                "id": 5,
+                "name": "Çerez Politikası"
+            }, {
+                "id": 6,
+                "name": "İşlem Rehberi"
+            }
+
+        ]
+
+    },
+    {
+        "id": 3,
+        "name": "İş Ortağımız Ol",
+        "children": [{
+                "id": 1,
+                "name": "Bayimiz Olun"
+            }, {
+                "id": 2,
+                "name": "Deponu Kirala"
+            }, {
+                "id": 3,
+                "name": "GetirYemek Restoranı Ol"
+            }, {
+                "id": 4,
+                "name": "GetirÇarşı İşletmesi Ol"
+            }, {
+                "id": 5,
+                "name": "Zincir Restoranlar"
+            }
+
+        ]
+
+    }
+]
